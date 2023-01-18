@@ -21,6 +21,7 @@ UART transfer through FTDI. Examining the UART bits on a Logic Analyser.
 3. [HC05 Bluetooth Module Interfacing](./hc05-bluetooth-interfacing/): This project is under development, however it has scope of usage of DMA based UART transfer.
 
 <hr>
+
 # Other experiments:
 
 Also checkout my other works with STM32F1: [STM32F103 RTOS](https://github.com/anindyamitra15/stm32-rtos), [STM32F1 GPIO Alternate Functions](https://github.com/anindyamitra15/stm32-gpio-modes) and, [STM32F1 PWM Modes](https://github.com/anindyamitra15/stm32-pwm)
